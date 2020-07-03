@@ -60,9 +60,9 @@ Currently we need your help in fixing the solution!! #pleasehelp
 - Bonus Points: Update Unit Tests
 
 
-Please create a branch called /users/{yourname}/simple-todo-fix 
+Please fork the repo "https://github.com/Conlog-hub/Simple.Todo.git" to your Github account
 
-Please create a pull request with your changes.
+Implemet the above changes and commit it to your Github Repo, and send us the link to your changes.
 
 # Additional Reading Documentation
 
