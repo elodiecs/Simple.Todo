@@ -1,0 +1,197 @@
+﻿DEBUG 2020-07-13 20:06:54,210 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-07-13 20:06:54,523 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-07-13 20:06:55,214 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.Migrator.TodoMigratorModule, Simple.Todo.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:06:55,217 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.EntityFrameworkCore.TodoEntityFrameworkModule, Simple.Todo.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:06:55,224 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.TodoCoreModule, Simple.Todo.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:06:55,224 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:06:55,243 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:06:55,243 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:06:55,244 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:06:55,244 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:06:55,245 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:06:55,249 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-07-13 20:06:56,146 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Simple.Todo.EntityFrameworkCore.TodoDbContext, Simple.Todo.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:06:57,787 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-07-13 20:06:57,855 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-07-13 20:06:57,878 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-07-13 20:06:57,890 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Todo
+DEBUG 2020-07-13 20:07:21,520 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-07-13 20:07:21,732 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-07-13 20:07:22,376 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.Migrator.TodoMigratorModule, Simple.Todo.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:07:22,379 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.EntityFrameworkCore.TodoEntityFrameworkModule, Simple.Todo.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:07:22,384 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.TodoCoreModule, Simple.Todo.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:07:22,392 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:07:22,393 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:07:22,393 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:07:22,394 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:07:22,395 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:07:22,395 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:07:22,400 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-07-13 20:07:23,221 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Simple.Todo.EntityFrameworkCore.TodoDbContext, Simple.Todo.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:07:24,534 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-07-13 20:07:24,586 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-07-13 20:07:24,599 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-07-13 20:07:24,606 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Todo
+INFO  2020-07-13 20:07:24,893 [1    ] Simple.Todo.Migrator.Log                 - Host database: server=localhost;database=TodoDb;trusted_connection=True
+INFO  2020-07-13 20:07:24,893 [1    ] Simple.Todo.Migrator.Log                 - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-07-13 20:08:14,013 [1    ] Simple.Todo.Migrator.Log                 - HOST database migration started...
+INFO  2020-07-13 20:08:32,323 [1    ] Simple.Todo.Migrator.Log                 - An error occured during migration of host database:
+INFO  2020-07-13 20:08:32,375 [1    ] Simple.Todo.Migrator.Log                 - Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDatabaseCreator.<>c__DisplayClass18_0.<Exists>b__0(DateTime giveUp)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.<>c__DisplayClass12_0`2.<Execute>b__0(DbContext c, TState s)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.Execute[TState,TResult](IExecutionStrategy strategy, TState state, Func`2 operation, Func`2 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.Execute[TState,TResult](IExecutionStrategy strategy, TState state, Func`2 operation)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDatabaseCreator.Exists(Boolean retryOnNotExists)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDatabaseCreator.Exists()
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.Exists()
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.Migrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrateForHost(Action`1 seedAction)
+   at Simple.Todo.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Migrator\MultiTenantMigrateExecuter.cs:line 62
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+INFO  2020-07-13 20:08:32,375 [1    ] Simple.Todo.Migrator.Log                 - Canceled migrations.
+DEBUG 2020-07-13 20:22:57,977 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-07-13 20:22:58,069 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-07-13 20:22:58,321 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.Migrator.TodoMigratorModule, Simple.Todo.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:22:58,324 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.EntityFrameworkCore.TodoEntityFrameworkModule, Simple.Todo.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:22:58,332 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.TodoCoreModule, Simple.Todo.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:22:58,333 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:22:58,333 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:22:58,334 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:22:58,334 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:22:58,335 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:22:58,336 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:22:58,341 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-07-13 20:22:58,898 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Simple.Todo.EntityFrameworkCore.TodoDbContext, Simple.Todo.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 20:22:59,817 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-07-13 20:22:59,875 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-07-13 20:22:59,889 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-07-13 20:22:59,895 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Todo
+INFO  2020-07-13 20:23:00,119 [1    ] Simple.Todo.Migrator.Log                 - Host database: server=localhost;database=TodoDb;trusted_connection=True
+INFO  2020-07-13 20:23:00,119 [1    ] Simple.Todo.Migrator.Log                 - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-07-13 20:23:05,595 [1    ] Simple.Todo.Migrator.Log                 - HOST database migration started...
+INFO  2020-07-13 20:23:23,801 [1    ] Simple.Todo.Migrator.Log                 - An error occured during migration of host database:
+INFO  2020-07-13 20:23:23,848 [1    ] Simple.Todo.Migrator.Log                 - Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDatabaseCreator.<>c__DisplayClass18_0.<Exists>b__0(DateTime giveUp)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.<>c__DisplayClass12_0`2.<Execute>b__0(DbContext c, TState s)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.Execute[TState,TResult](IExecutionStrategy strategy, TState state, Func`2 operation, Func`2 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.Execute[TState,TResult](IExecutionStrategy strategy, TState state, Func`2 operation)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDatabaseCreator.Exists(Boolean retryOnNotExists)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDatabaseCreator.Exists()
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.Exists()
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.Migrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrateForHost(Action`1 seedAction)
+   at Simple.Todo.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Migrator\MultiTenantMigrateExecuter.cs:line 62
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+INFO  2020-07-13 20:23:23,849 [1    ] Simple.Todo.Migrator.Log                 - Canceled migrations.
+DEBUG 2020-07-13 20:23:48,972 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2020-07-13 20:23:48,973 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2020-07-13 21:11:49,865 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-07-13 21:11:50,004 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-07-13 21:11:50,237 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.Migrator.TodoMigratorModule, Simple.Todo.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 21:11:50,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.EntityFrameworkCore.TodoEntityFrameworkModule, Simple.Todo.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 21:11:50,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.TodoCoreModule, Simple.Todo.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 21:11:50,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 21:11:50,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 21:11:50,248 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 21:11:50,248 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 21:11:50,249 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 21:11:50,249 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 21:11:50,253 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-07-13 21:11:51,081 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Simple.Todo.EntityFrameworkCore.TodoDbContext, Simple.Todo.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-13 21:11:51,841 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-07-13 21:11:51,885 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-07-13 21:11:51,897 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-07-13 21:11:51,902 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Todo
+INFO  2020-07-13 21:11:52,098 [1    ] Simple.Todo.Migrator.Log                 - Host database: server=localhost;database=TodoDb;trusted_connection=True
+INFO  2020-07-13 21:11:52,099 [1    ] Simple.Todo.Migrator.Log                 - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2020-07-13 21:11:58,787 [1    ] Simple.Todo.Migrator.Log                 - HOST database migration started...
+INFO  2020-07-13 21:12:17,387 [1    ] Simple.Todo.Migrator.Log                 - An error occured during migration of host database:
+INFO  2020-07-13 21:12:17,434 [1    ] Simple.Todo.Migrator.Log                 - Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDatabaseCreator.<>c__DisplayClass18_0.<Exists>b__0(DateTime giveUp)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.<>c__DisplayClass12_0`2.<Execute>b__0(DbContext c, TState s)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.Execute[TState,TResult](IExecutionStrategy strategy, TState state, Func`2 operation, Func`2 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.Execute[TState,TResult](IExecutionStrategy strategy, TState state, Func`2 operation)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDatabaseCreator.Exists(Boolean retryOnNotExists)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDatabaseCreator.Exists()
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.Exists()
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.Migrator.Migrate(String targetMigration)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrateForHost(Action`1 seedAction)
+   at Simple.Todo.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Migrator\MultiTenantMigrateExecuter.cs:line 62
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+INFO  2020-07-13 21:12:17,435 [1    ] Simple.Todo.Migrator.Log                 - Canceled migrations.
+DEBUG 2020-07-14 14:51:08,511 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-07-14 14:51:09,024 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2020-07-14 14:51:10,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.Migrator.TodoMigratorModule, Simple.Todo.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-14 14:51:10,561 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.EntityFrameworkCore.TodoEntityFrameworkModule, Simple.Todo.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-14 14:51:10,562 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Simple.Todo.TodoCoreModule, Simple.Todo.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-14 14:51:10,563 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-14 14:51:10,563 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-14 14:51:10,564 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-14 14:51:10,564 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-14 14:51:10,565 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-14 14:51:10,565 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-14 14:51:10,574 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2020-07-14 14:51:12,907 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Simple.Todo.EntityFrameworkCore.TodoDbContext, Simple.Todo.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-07-14 14:51:14,959 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2020-07-14 14:51:15,069 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-07-14 14:51:15,097 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-07-14 14:51:15,122 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Todo
+INFO  2020-07-14 14:51:15,738 [1    ] Simple.Todo.Migrator.Log                 - Host database: server=localhost;database=TodoDb;trusted_connection=True
+INFO  2020-07-14 14:51:15,738 [1    ] Simple.Todo.Migrator.Log                 - Continue to migration for this host database and all tenants..? (Y/N): 
