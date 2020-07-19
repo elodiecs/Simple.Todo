@@ -1,0 +1,11 @@
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\bin\Debug\netcoreapp3.1\Dockerfile
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\bin\Debug\netcoreapp3.1\angular.dll.config
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\bin\Debug\netcoreapp3.1\angular.deps.json
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\bin\Debug\netcoreapp3.1\angular.dll
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\bin\Debug\netcoreapp3.1\angular.pdb
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\obj\Debug\netcoreapp3.1\Simple.Todo.AngularUI.csprojAssemblyReference.cache
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\obj\Debug\netcoreapp3.1\Simple.Todo.AngularUI.AssemblyInfoInputs.cache
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\obj\Debug\netcoreapp3.1\Simple.Todo.AngularUI.AssemblyInfo.cs
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\obj\Debug\netcoreapp3.1\Simple.Todo.AngularUI.csproj.CoreCompileInputs.cache
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\obj\Debug\netcoreapp3.1\angular.dll
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\angular\obj\Debug\netcoreapp3.1\angular.pdb
