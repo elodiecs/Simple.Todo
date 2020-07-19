@@ -1,0 +1,9 @@
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Core\bin\Debug\netcoreapp3.1\Simple.Todo.Core.deps.json
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Core\bin\Debug\netcoreapp3.1\Simple.Todo.Core.dll
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Core\bin\Debug\netcoreapp3.1\Simple.Todo.Core.pdb
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Core\obj\Debug\netcoreapp3.1\Simple.Todo.Core.csprojAssemblyReference.cache
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Core\obj\Debug\netcoreapp3.1\Simple.Todo.Core.AssemblyInfoInputs.cache
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Core\obj\Debug\netcoreapp3.1\Simple.Todo.Core.AssemblyInfo.cs
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Core\obj\Debug\netcoreapp3.1\Simple.Todo.Core.csproj.CoreCompileInputs.cache
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Core\obj\Debug\netcoreapp3.1\Simple.Todo.Core.dll
+C:\Users\elodie.subramoney\Downloads\Simple.Todo-master\Simple.Todo-master\aspnet-core\src\Simple.Todo.Core\obj\Debug\netcoreapp3.1\Simple.Todo.Core.pdb

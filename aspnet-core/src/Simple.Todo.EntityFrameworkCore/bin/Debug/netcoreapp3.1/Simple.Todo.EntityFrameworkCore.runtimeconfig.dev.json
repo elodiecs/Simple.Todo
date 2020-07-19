@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elodie.subramoney\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elodie.subramoney\\.nuget\\packages"
+    ]
+  }
+}
